@@ -1,8 +1,9 @@
 import cv2
-
+import cv2
 # img = cv2.imread('lena.png')
 
 cap = cv2.VideoCapture(0)
+cap.set(3,640)
 cap.set(3,640)
 cap.set(4,480)
 
