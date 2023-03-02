@@ -1,7 +1,4 @@
 import cv2
-import cv2
-import cv2
-import cv2
 # img = cv2.imread('lena.png')
 hdfghdfjjdfhjds
 cap = cv2.VideoCapture(0)
